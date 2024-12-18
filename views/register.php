@@ -47,6 +47,7 @@
                     </form>
                     
                     <p class="text-center mt-3 small">Registered already? <a href="../views">Log in.</a></p>
+                    <!-- hello -->
                 </div>
             </div>
         </div>
