@@ -37,7 +37,7 @@ $all_users = $user->getAllUsers();
       </dev>
     </div>
   </nav>
-
+<!-- This is sa sample changes -->
   <main class="row justify-content-center gx-0">
     <div class="col-6">
       <h2 class="text-center">USER LIST</h2>
